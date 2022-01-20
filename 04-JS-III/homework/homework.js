@@ -40,7 +40,7 @@ function agregarItemAlFinalDelArray(array, elemento) {
   // y devuelve el array
   // Tu código:
   array [array.length] = elemento;
-  return array;
+   return array;
 }
 
 
@@ -50,7 +50,7 @@ function agregarItemAlComienzoDelArray(array, elemento) {
   // Pista: usa el método `.unshift`
   // Tu código:
   array.unshift(elemento);
-  return array;
+   return array;
 } 
 
 
